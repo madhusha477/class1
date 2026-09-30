@@ -1,0 +1,14 @@
+h1{
+    color: aqua;
+    text-align: justify;
+}
+.para{
+    border: 3px solid black;
+    padding: 30px;
+    margin: 30px;
+    width: 50%;
+    text-align: left;
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+}
